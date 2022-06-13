@@ -1,0 +1,92 @@
+{
+  "Header": {
+    "title": "我是顏亭安",
+    "paragraph": "Coding 是我的興趣，我想把興趣變成專長，然後變成專家。"
+  },
+  "About": {
+    "paragraph": "今年24歲，已於臺灣港務港勤股份有限公司任職兩年，工作內容包含硬體維運、資訊設備採購、ISMS、資訊相關購案外包以及少量的系統開發及維護，今年考取ISO27001:2013主導稽核員證照，曾經以vb.net + MSSQL開發公司的禮品管理系統，後來使用React+Express改寫，也撰寫過少量的SQL Server Stored Procedure及Function，學生時期曾以Vue+Firebase開發課程互動網頁，獲得第24屆全國大專院校資訊應用服務創新競賽資訊應用組第三名，以及校內專題競賽第一名。",
+    "Why": [
+      "熱於挑戰自我",
+      "有自主學習的能力",
+      "敏銳的觀察力",
+      "能自行解決問題"
+    ],
+    "Why2": [
+      "做任何事一定有Plan B",
+      "積極正向但不躁進",
+      "善於溝通與傾聽",
+      "以團體利益為優先"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "FB搜尋我家阿邁",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-code",
+      "name": "JaveScript",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "SQL",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-shield",
+      "name": "ISO27001",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-file-code-o",
+      "name": "HTML",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-windows",
+      "name": "處理Win OS問題",
+      "text": ""
+    },
+    {
+      "icon": "fa fa-wrench",
+      "name": "修理PC",
+      "text": ""
+    }
+  ],
+  "Features": [
+    {
+      "icon": "fa fa-female",
+      "title": "基本資料",
+      "text": "我是顏亭安，1998年於高雄出生。"
+    },
+    {
+      "icon": "fa fa-graduation-cap",
+      "title": "學歷",
+      "text": "2020年畢業於國立高雄科技大學商務資訊應用系（原國立高雄海洋科技大學資訊管理系）"
+    },
+    {
+      "icon": "fa fa-briefcase",
+      "title": "經歷",
+      "text": "2020年起於臺灣港務港勤股份有限公司任職MIS至今。"
+    },
+    {
+      "icon": "fa fa-flag",
+      "title": "願景",
+      "text": "目前專攻React，希望成為一個優秀的全端工程師"
+    }
+  ]
+}
